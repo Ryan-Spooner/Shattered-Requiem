@@ -1,22 +1,26 @@
 # Welcome to Shattered Requiem
 
-## A Message to Players
+## A Letter
 
 Survivor,
 
-The promise of Utopia, a new Atlantis, was empty. Our demagogues crafted visions of prosperity, free energy, eternal life. But such blessings were meant for the highborn. Useless eaters, they called us. Genetic hazards to prune like a crooked shoot. We were lied to, our minds poisoned, and our bodies by the water, through the food. A single voice couldn't break their hold. But the blood of martyrs nourished a rebellion.
+The promise of Utopia, a new Atlantis, was empty. Our demagogues crafted visions of prosperity, free energy, eternal life. But those gifts were for highborns. Useless eaters, they call us. Genetic hazards to prune like crooked shoots. We were lied to, our minds and bodies poisoned. A single voice couldn't break their hold. But the blood of martyrs stoked a flame.
 
-Project Aion was about to go online--their religious climax into godhood. Iter hacked the CCTVs at the Citadel and we saw those bastards congratulating each other, indulging sick pleasures. Quite the pinnacle of humanity, with plans to vacate and cleanse the planet. We fought back with the means we had: scorched earth suicide.
+Project Aion was to go online--their ascent to godhood. Iter hacked the Citadel's CCTVs and we saw those bastards congratulating each other, indulging sick pleasures. The pinnacle of humanity, *heh*. Plans to vacate and cleanse the planet. We fought back: scorched earth suicide.
 
-Stuxnet-terminus. That’s what I named it. Armageddon rolled into 16 kilobytes of binary. It had one target: an actuator deep within the Global Village Fusion Center. The complex was impenetrable, its entire network air-gapped, with Faraday shields that could withstand a tactical nuke. Droids kept the equipment in good repair. Perfectly compliant. GVFC mercs made sure no unregistered soft bodies came within two clicks of the perimeter walls. There was one crack in the defense: a lone engineer, Dimitar Borisov.
+Stuxnet-terminus is what I named it. Armageddon rolled into 16 kilobytes of binary. My *magnum opus*, a final fuck you to the suits. There was one target: an actuator deep within the Global Village Fusion Center. The complex was impenetrable, its entire network air-gapped, with Faraday shields that could withstand a tactical nuke. Droids kept the equipment in good repair. Perfectly compliant. GVFC mercs made sure no unregistered soft bodies came within two clicks of the perimeter walls.
 
-He was a Bulgarian prick. Would slink into the fortress's bowels to upgrade firmware once every full moon, like a high priest on Yom Kippur. They could have had a drone load the patches. Sociopaths get off to that kind of theater, though. Makes them feel important. Which was fine enough. We cooked and propagated the payload: Everything that touched the net sucked it up. In nine months, Mr. Borisov's implant pinged us.
+There was one crack in the defense, just big enough to slip through: A lone engineer, Dimitar Borisov. He was a Bulgarian prick, the only human allowed into the facility interior. Once every full moon, he'd descend into the fortress's bowels to upgrade firmware.
 
-Temperature, coordinates, kernel process, MAC on the FPGA: over one-hundred parameters accounted for. Nicking that info wasn't easy. Disguising the exploit, that was the real bitch. It was my *magnum opus*, a final fuck you to the suits. What happened next... maybe there's something to that starlord crap they're peddling. Dimensional rifts? A disease or mutation? Whatever it is, the explosion bought us a new life. 
+They could have had a drone load the patches. Sociopaths get off to that kind of theater, though. Which was fine enough. We cooked and propagated a payload: Everything that touched the net got a copy. In nine months, Mr. Borisov's implant pinged us.
 
-Unholy ambition plunged us into a desperate war. Against undead hordes. Against ourselves. I welcome you to a Shattered Requiem. Enemies are born in chaos and allies forged in blood.
+Temperature, coordinates, kernel process, MAC on the FPGA--over one-hundred parameters accounted for. Nicking that info wasn't easy. Disguising the exploit, that was the real bitch. What happened next, well, maybe there's something to that starlord crap they're peddling. Dimensional rifts? A disease? Mutation? Whatever it is, the explosion bought us a new life. Unholy ambition put us into a desperate war against undead hordes. Against ourselves.
 
-Find the Citadel, a stronghold and safe haven. Align with us, that's what I recommend. Or take it for yourself if you can. Carve your path, hunt treasure and danger. And prepare yourself. Night is coming.
+I welcome you to a Shattered Requiem. Enemies are born in chaos and allies, in blood.
+
+I invite you to find the Citadel, our stronghold and a safe haven. Or you can take it for yourself, if you can. Carve a path, hunt treasure and defy this abysmal fate.
+
+But make sure to prepare yourself. Night is coming.
 
 ---
 
