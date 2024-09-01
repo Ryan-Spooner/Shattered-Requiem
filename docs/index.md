@@ -24,5 +24,4 @@ But make sure to prepare yourself. Night is coming.
 
 ---
 
-Doulos Khristos
-GV Citadel
+Doulos Khristos | GVFC Citadel
