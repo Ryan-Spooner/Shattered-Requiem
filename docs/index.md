@@ -1,6 +1,6 @@
 # Welcome to Shattered Requiem
 
-## Survivor,
+## The Draw
 
 ![](assets/images/p1.webp){ align=right }
 
@@ -9,6 +9,8 @@ The promise of Utopia, a new Atlantis, was empty. Our demagogues crafted visions
 Project Aion was to go online--their ascent to godhood. Iter hacked the Citadel's CCTVs and we saw those bastards congratulating each other, indulging sick pleasures. The pinnacle of humanity, *heh*. Plans to vacate and cleanse the planet. We fought back: scorched earth suicide.
 
 ![](assets/images/p2.webp){ align=left }
+
+# The Plan
 
 Stuxnet-terminus is what I named it. Armageddon rolled into 16 kilobytes of binary. My *magnum opus*, a final fuck you to the suits. There was one target: an actuator deep within the Global Village Fusion Center. The complex was impenetrable, its entire network air-gapped, with Faraday shields that could withstand a tactical nuke. Droids kept the equipment in good repair. Perfectly compliant. GVFC mercs made sure no unregistered soft bodies came within two clicks of the perimeter walls.
 
@@ -21,6 +23,8 @@ There was one crack in the defense, just big enough to slip through: A lone engi
 They could have had a drone load the patches. Sociopaths get off to that kind of theater, though. Which was fine enough. We cooked and propagated a payload: Everything that touched the net got a copy. In nine months, Mr. Borisov's implant pinged us.
 
 ![](assets/images/p5.webp)
+
+## The Aftermath
 
 Temperature, coordinates, kernel process, MAC on the FPGA--over one-hundred parameters accounted for. Nicking that info wasn't easy. Disguising the exploit, that was the real bitch. What happened next, well, maybe there's something to that starlord crap they're peddling. Dimensional rifts? A disease? Mutation? Whatever it is, the explosion bought us a new life. Unholy ambition put us into a desperate war against undead hordes. Against ourselves.
 
