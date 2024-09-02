@@ -4,6 +4,7 @@ site_url: https://www.shattered-requiem.com
 
 theme:
   name: material
+  favicon: assets/favicon/shattered_requiem_logo.svg
   features:
     - navigation.tabs
     - navigation.sections
