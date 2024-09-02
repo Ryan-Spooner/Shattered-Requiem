@@ -26,6 +26,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
+      - run: pip install mkdocs-glightbox
       - name: Create CNAM file
         run: echo 'www.shattered-requiem.com' > CNAM
       - run: mkdocs gh-deploy --force
