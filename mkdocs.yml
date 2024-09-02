@@ -33,8 +33,6 @@ theme:
 plugins:
   - search
   - glightbox
-    width: 50%
-    height: auto
 
 markdown_extensions:
   - pymdownx.highlight:

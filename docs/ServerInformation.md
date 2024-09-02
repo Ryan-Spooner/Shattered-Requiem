@@ -1,4 +1,4 @@
-# How to Join the Server
+# Join the Server
 
 ## Server Name
 ```
@@ -7,7 +7,7 @@ Shattered Requiem
 
 ## Region
 ```
-US-West
+NorthAmericaWest
 ```
 
 ## Password
