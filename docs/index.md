@@ -1,10 +1,10 @@
 # Welcome to Shattered Requiem
 
-## A Letter
-
-Survivor,
+## Survivor,
 
 The promise of Utopia, a new Atlantis, was empty. Our demagogues crafted visions of prosperity, free energy, eternal life. But those gifts were for highborns. Useless eaters, they call us. Genetic hazards to prune like crooked shoots. We were lied to, our minds and bodies poisoned. A single voice couldn't break their hold. But the blood of martyrs stoked a flame.
+
+![](../images/p1.webp)
 
 Project Aion was to go online--their ascent to godhood. Iter hacked the Citadel's CCTVs and we saw those bastards congratulating each other, indulging sick pleasures. The pinnacle of humanity, *heh*. Plans to vacate and cleanse the planet. We fought back: scorched earth suicide.
 
