@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="538.90149mm"
+   height="181.29623mm"
+   viewBox="0 0 538.90149 181.29623"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="0.32026164"
+     inkscape:cx="1598.6928"
+     inkscape:cy="48.397928"
+     inkscape:window-width="1920"
+     inkscape:window-height="1162"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="figure_1" />
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="style75">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p52ee099761">
+      <rect
+         x="54"
+         y="17.280001"
+         width="334.79999"
+         height="110.88"
+         id="rect96" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(166.83768,-54.711749)">
+    <g
+       id="figure_1"
+       transform="matrix(0.35277778,0,0,0.35277778,21.15195,118.56703)">
+      <g
+         id="axes_1"
+         transform="matrix(5.6953125,0,0,5.6953125,-1029.843,-339.43332)">
+        <g
+           id="patch_2">
+          <path
+             d="m 87.48,117.072 66.96,-33.264 66.96,33.264 z"
+             clip-path="url(#p52ee099761)"
+             style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter"
+             id="path82" />
+        </g>
+        <g
+           id="patch_3">
+          <path
+             d="M 254.88,117.072 355.32,83.808 288.36,72.72 Z"
+             clip-path="url(#p52ee099761)"
+             style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter"
+             id="path85" />
+        </g>
+        <g
+           id="patch_4">
+          <path
+             d="M 154.44,61.632 221.4,28.368 87.48,39.456 Z"
+             clip-path="url(#p52ee099761)"
+             style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter"
+             id="path88" />
+        </g>
+        <g
+           id="patch_5">
+          <path
+             d="M 288.36,50.544 355.32,39.456 321.84,28.368 Z"
+             clip-path="url(#p52ee099761)"
+             style="fill:#ffffff;stroke:#ffffff;stroke-linejoin:miter"
+             id="path91" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
