@@ -3,6 +3,7 @@ site_name: Shattered Requiem
 site_url: https://www.shattered-requiem.com
 
 theme:
+  logo: assests/favicon/shattered_requiem_logo.svg
   name: material
   favicon: assets/favicon/shattered_requiem_logo.svg
   features:
